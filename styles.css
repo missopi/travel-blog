@@ -1,9 +1,13 @@
+body {
+    margin: 0;
+}
+
 .header {
     background-color: rgb(9, 43, 56);
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px;
+    padding: 20px;
 }
 
 ul {
