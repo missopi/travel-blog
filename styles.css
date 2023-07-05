@@ -17,8 +17,9 @@ ul {
     margin-right: 100px;
 }
 
-.links {
+a {
     font-family: Roboto, sans-serif;
     font-weight: bold;
     color: rgb(179, 228, 243);
+    text-decoration: none;
 }
