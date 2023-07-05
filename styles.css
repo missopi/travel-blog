@@ -1,3 +1,20 @@
-header {
+.header {
     background-color: rgb(9, 43, 56);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+    margin-right: 100px;
+}
+
+.links {
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+    color: rgb(179, 228, 243);
 }
