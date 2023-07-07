@@ -40,9 +40,13 @@ a {
 .destinations {
     display: flex;
     justify-content: center;
+    gap: 1pc;
 }
 
 img {
     width: 250pt;
     height: 400pt;
+    border: solid rgb(9,43,56);
+    border-width: 2px;
+    
 }
