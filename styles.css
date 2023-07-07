@@ -43,7 +43,7 @@ a {
     gap: 1pc;
 }
 
-img {
+#newyork, #thailand, #tanzania {
     width: 250pt;
     height: 400pt;
     border: solid rgb(9,43,56);
