@@ -32,3 +32,8 @@ a {
     text-decoration: none;
     font-size: 18px;
 }
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
