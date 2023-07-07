@@ -33,7 +33,16 @@ a {
     font-size: 18px;
 }
 
-.buttons {
+.section-one {
+    margin-top: 1.5pc;
+}
+
+.destinations {
     display: flex;
     justify-content: center;
+}
+
+img {
+    width: 250pt;
+    height: 400pt;
 }
