@@ -2,7 +2,7 @@ body {
     margin: 0;
 }
 
-.header {
+header {
     background-color: rgb(9, 43, 56);
     display: flex;
     justify-content: space-between;
@@ -35,6 +35,19 @@ a {
 
 .section-one {
     margin-top: 1.5pc;
+}
+
+.section-one-index {
+    background-color: rgb(9, 43, 56);
+    display: flex;
+    justify-content: space-between;
+    padding: 90px;
+}
+
+.section-one-index img {
+    width: 600px;
+    height: 360px;
+    background-color: azure;
 }
 
 .destinations {
