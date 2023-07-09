@@ -58,15 +58,12 @@ a {
 .destinations {
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 1pc;
 }
 
 #newyork, #thailand, #tanzania {
     width: 260pt;
     height: 420pt;
-    border: solid rgb(9,43,56);
-    border-width: 2px;
-    
 }
 
 h2 {
