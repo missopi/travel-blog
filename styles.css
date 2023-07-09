@@ -33,21 +33,26 @@ a {
     font-size: 18px;
 }
 
-.section-one {
+.section-one-destinations {
     margin-top: 1.5pc;
 }
 
-.section-one-index {
-    background-color: rgb(9, 43, 56);
+.section-one img {
+    width: 990pt;
+    height: 550pt;
+}
+
+.section-two {
+    background-color: rgb(253, 253, 253);
     display: flex;
     justify-content: space-between;
     padding: 90px;
 }
 
-.section-one-index img {
+.section-two img {
     width: 600px;
     height: 360px;
-    background-color: azure;
+    background-color: rgb(87, 88, 88);
 }
 
 .destinations {
