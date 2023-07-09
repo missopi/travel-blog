@@ -33,8 +33,17 @@ a {
     font-size: 18px;
 }
 
-.section-one-destinations {
-    margin-top: 1.5pc;
+.title {
+    font-size: 35px;
+    font-family: "Lora",serif;
+    font-weight: bold;
+    padding-top: 5pc;
+    padding-bottom: 2pc;
+}
+
+.subtext {
+    font-size: 20px;
+    width: 400px;
 }
 
 .section-one img {
@@ -55,6 +64,10 @@ a {
     background-color: rgb(87, 88, 88);
 }
 
+.section-one-destinations {
+    margin-top: 1.5pc;
+}
+
 .destinations {
     display: flex;
     justify-content: center;
@@ -66,7 +79,3 @@ a {
     height: 420pt;
 }
 
-h2 {
-    font-size: 35px;
-    font-family: "Lora",serif;
-}
