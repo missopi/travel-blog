@@ -46,10 +46,28 @@ a {
     width: 400px;
 }
 
-.section-one img {
-    width: 990pt;
-    height: 550pt;
+.section-one {
+    position: relative;
 }
+
+.quote {
+    position: absolute;
+    top: 3pc;
+    left: 12pc;
+    color: azure;
+    font-size: 45px;
+    font-family: "Lora",serif;
+    font-weight: bold;
+}
+
+.author {
+    position: absolute;
+    top: 8pc;
+    left: 17pc;
+    color: azure;
+    font-size: 15px;
+}
+
 
 .section-two {
     background-color: rgb(253, 253, 253);
@@ -78,4 +96,6 @@ a {
     width: 260pt;
     height: 420pt;
 }
+
+
 
