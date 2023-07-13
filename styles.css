@@ -52,8 +52,8 @@ a {
 
 .quote {
     position: absolute;
-    top: 3pc;
-    left: 12pc;
+    top: 25px;
+    left: 150px;
     color: azure;
     font-size: 45px;
     font-family: "Lora",serif;
@@ -62,10 +62,15 @@ a {
 
 .author {
     position: absolute;
-    top: 8pc;
-    left: 17pc;
+    top: 130px;
+    left: 400px;
     color: azure;
     font-size: 15px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
 
 
