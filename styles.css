@@ -87,9 +87,9 @@ img {
     height: 360px;
     text-align: center;
     line-height: 200px;
-    color: azure;
-    background-color: rgb(87, 88, 88);
-    border: 3px solid black;
+    color: rgb(9, 43, 56);
+    background-color: rgb(175, 214, 230);
+    border: 3px solid rgb(9, 43, 56);;
     border-radius: 10px;
 }
 
@@ -97,15 +97,30 @@ img {
     background-color: rgb(253, 253, 253);
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
+    text-align: center;
+}
+
+.text {
+    padding: 20px;
+    font-size: 20px;
+    font-family: "Lora",serif;
+}
+
+.button {
+    margin-bottom: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid rgb(9, 43, 56);
+    color: rgb(9, 43, 56);
+    background-color: rgb(175, 214, 230);
 }
 
 .section-three img {
     width: 350px;
     height: 300px;
     background-color: azure;
-    gap: 50px;
-    margin: 50px;
+    gap: 20px;
+    margin: 10px;
 }
 
 .section-one-destinations {
