@@ -118,9 +118,9 @@ img {
 
 .section-three img {
     width: 350px;
-    height: 300px;
+    height: 350px;
     background-color: azure;
-    gap: 20px;
+    gap: 30px;
     margin: 10px;
 }
 
@@ -131,12 +131,15 @@ img {
 .destinations {
     display: flex;
     justify-content: center;
-    gap: 1pc;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
-#newyork, #thailand, #tanzania {
-    width: 300px;
-    height: 300px;
+#newyork, #thailand, #tanzania, #sanfransisco, #china, #amsterdam {
+    width: 350px;
+    height: 350px;
 }
 
 
