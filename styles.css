@@ -78,12 +78,13 @@ img {
 .section-two {
     background-color: rgb(253, 253, 253);
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 50px;
     padding: 90px;
 }
 
 .section-two img {
-    width: 600px;
+    width: 500px;
     height: 360px;
     text-align: center;
     line-height: 200px;
