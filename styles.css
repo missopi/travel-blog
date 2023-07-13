@@ -103,13 +103,13 @@ img {
 
 .text {
     padding: 20px;
-    font-size: 20px;
+    font-size: 25px;
     font-family: "Lora",serif;
 }
 
 .button {
     margin-bottom: 100px;
-    padding: 10px;
+    padding: 10px 20px;
     border-radius: 10px;
     border: 2px solid rgb(9, 43, 56);
     color: rgb(9, 43, 56);
@@ -135,9 +135,16 @@ img {
 }
 
 #newyork, #thailand, #tanzania {
-    width: 260pt;
-    height: 420pt;
+    width: 300px;
+    height: 300px;
 }
 
 
-
+footer {
+    background-color: rgb(9, 43, 56);
+    font-size: 15px;
+    color: rgb(175, 214, 230);
+    font-family: "Lora",serif;
+    text-align: center;
+    padding: 50px;
+}
