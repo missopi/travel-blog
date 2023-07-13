@@ -85,6 +85,8 @@ img {
     width: 600px;
     height: 360px;
     background-color: rgb(87, 88, 88);
+    border: 3px solid black;
+    border-radius: 10px;
 }
 
 .section-one-destinations {
