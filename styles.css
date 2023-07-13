@@ -125,7 +125,7 @@ img {
 }
 
 .section-one-destinations {
-    margin-top: 1.5pc;
+    margin: 50px;
 }
 
 .destinations {
@@ -133,8 +133,6 @@ img {
     justify-content: center;
     flex-wrap: wrap;
     gap: 30px;
-    margin-left: 50px;
-    margin-right: 50px;
 }
 
 #newyork, #thailand, #tanzania, #sanfransisco, #china, #amsterdam {
