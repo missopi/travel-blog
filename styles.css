@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background: rgb(255, 255, 255);
 }
 
 header {
@@ -22,7 +23,7 @@ ul {
     list-style-type: none;
     display: flex;
     gap: 50px;
-    margin-right: 5pc;
+    margin-right: 80px;
 }
 
 a {
@@ -48,6 +49,8 @@ a {
 
 .section-one {
     position: relative;
+    display: flex;
+    justify-content: center;
 }
 
 .quote {
